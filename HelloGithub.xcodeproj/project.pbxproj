@@ -13,6 +13,7 @@
 		04BF07332037FF2000188490 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04BF07322037FF2000188490 /* Assets.xcassets */; };
 		04BF07362037FF2000188490 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04BF07342037FF2000188490 /* LaunchScreen.storyboard */; };
 		04BF07392037FF2000188490 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BF07382037FF2000188490 /* main.m */; };
+		AD8893CC220DDE1A002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AD8893CB220DDE19002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		04BF07352037FF2000188490 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04BF07372037FF2000188490 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04BF07382037FF2000188490 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AD8893CB220DDE19002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 51607257_2040274586062691_1547480041053487104_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		04BF07282037FF2000188490 /* HelloGithub */ = {
 			isa = PBXGroup;
 			children = (
+				AD8893CB220DDE19002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg */,
 				04BF07292037FF2000188490 /* AppDelegate.h */,
 				04BF072A2037FF2000188490 /* AppDelegate.m */,
 				04BF072C2037FF2000188490 /* ViewController.h */,
@@ -134,6 +137,7 @@
 			files = (
 				04BF07362037FF2000188490 /* LaunchScreen.storyboard in Resources */,
 				04BF07332037FF2000188490 /* Assets.xcassets in Resources */,
+				AD8893CC220DDE1A002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg in Resources */,
 				04BF07312037FF2000188490 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
