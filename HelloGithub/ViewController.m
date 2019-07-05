@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"%lu",(unsigned long)kCircle);
+    NSLog(@"%lu",(unsigned long)kOblateSpheroid);
     
     //office
     
