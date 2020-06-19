@@ -19,11 +19,11 @@
 //    kOblateSpheroid
 //};
 
-typedef NS_ENUM(NSString, ShapeType) {
-    kCircle=@"uy",
-    kRectangle=@"u8",
-    kOblateSpheroid=@"0y"
-};
+//typedef NS_ENUM(NSString, ShapeType) {
+//    kCircle=@"uy",
+//    kRectangle=@"u8",
+//    kOblateSpheroid=@"0y"
+//};
 
 //enum temperature {cold = @"clo", warm = @"yy", hot = @"kj"};
 

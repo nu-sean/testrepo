@@ -16,10 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    NSLog(@"%lu",(unsigned long)kCircle);
-    NSLog(@"%lu",(unsigned long)kOblateSpheroid);
-    
+    self.view.backgroundColor = [UIColor redColor];
+//    NSLog(@"%lu",(unsigned long)kCircle);
+//    NSLog(@"%lu",(unsigned long)kOblateSpheroid);
+//
     //office
     
     //hey
