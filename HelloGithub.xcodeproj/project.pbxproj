@@ -14,6 +14,7 @@
 		04BF07362037FF2000188490 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04BF07342037FF2000188490 /* LaunchScreen.storyboard */; };
 		04BF07392037FF2000188490 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BF07382037FF2000188490 /* main.m */; };
 		AD8893CC220DDE1A002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AD8893CB220DDE19002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg */; };
+		F4892CC924A0A1F700B24642 /* ExportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4892CC824A0A1F700B24642 /* ExportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		04BF07372037FF2000188490 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04BF07382037FF2000188490 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AD8893CB220DDE19002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 51607257_2040274586062691_1547480041053487104_n.jpg; sourceTree = "<group>"; };
+		F4892CC824A0A1F700B24642 /* ExportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ExportOptions.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		04BF07282037FF2000188490 /* HelloGithub */ = {
 			isa = PBXGroup;
 			children = (
+				F4892CC824A0A1F700B24642 /* ExportOptions.plist */,
 				AD8893CB220DDE19002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg */,
 				04BF07292037FF2000188490 /* AppDelegate.h */,
 				04BF072A2037FF2000188490 /* AppDelegate.m */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04BF07362037FF2000188490 /* LaunchScreen.storyboard in Resources */,
+				F4892CC924A0A1F700B24642 /* ExportOptions.plist in Resources */,
 				04BF07332037FF2000188490 /* Assets.xcassets in Resources */,
 				AD8893CC220DDE1A002A7FD7 /* 51607257_2040274586062691_1547480041053487104_n.jpg in Resources */,
 				04BF07312037FF2000188490 /* Main.storyboard in Resources */,
